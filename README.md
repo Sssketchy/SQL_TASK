@@ -25,10 +25,8 @@ The tasks included in this assessment are:
 
 ## Files
 
-- `task1.sql`: SQL script containing my solution to Task 1.
-- `task2.sql`: SQL script containing my solution to Task 2.
-- `task3.sql`: SQL script containing my solution to Task 3.
-- ...
+- `SQL_TASK_22BLC1194.pdf`: SQL script containing my solution with tables to Task 1.
+- `TASK_!_22BLC1194.txt`: SQL script containing my solution to the same.
 
 ## Usage
 
