@@ -8,7 +8,6 @@ This repository contains my solutions to a SQL task assessment. The assessment c
 - [Tasks](#tasks)
 - [Files](#files)
 - [Usage](#usage)
-- [License](#license)
 
 ## Overview
 
