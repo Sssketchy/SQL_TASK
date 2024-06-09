@@ -30,7 +30,5 @@ The tasks included in this assessment are:
 
 ## Usage
 
-To review my solutions to the SQL tasks:
-
-1. Clone this repository to your local machine:
+Clone it if needed
 
